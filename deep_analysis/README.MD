@@ -1,7 +1,5 @@
 ## Deep Analysis Sheet
 
-![Deep Analysis Sheet](screenshots/Salary_demo_3.gif)
-
 This Excel project combines data cleaning, modeling, and visualization to reveal salary trends across job roles and regions in the data industry.  
 Through structured analysis and dynamic dashboards, it demonstrates how Excel can be used not only as a reporting tool but also as a **powerful analytical platform**.  
 To understand the data science job market, I asked the following:
