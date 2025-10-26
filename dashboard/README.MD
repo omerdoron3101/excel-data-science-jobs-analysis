@@ -1,6 +1,6 @@
 ## 1️⃣ Dashboard: Country-Based Salary Analysis
 
-<img width="600" height="308" alt="Country-Based Dashboard Demo" src="../screenshots/dashboard_demo.gif" />
+<img width="1200" height="616" alt="Country-Based Dashboard Demo" src="../screenshots/dashboard_demo.gif" />
 
 This dashboard provides a comprehensive analysis of 2023 data science job salaries across countries, job titles, and employment types. It helps visualize salary trends, compare job types, and identify geographic salary disparities using interactive Excel charts and formulas.
 
@@ -80,7 +80,7 @@ This dashboard provides a comprehensive analysis of 2023 data science job salari
 
 ## 2️⃣ Dashboard: Data Science Jobs Overview
 
-<img width="600" height="308" alt="Jobs Overview Dashboard Demo" src="../screenshots/dashboard_demo_2.gif" />
+<img width="1200" height="616" alt="Jobs Overview Dashboard Demo" src="../screenshots/dashboard_demo_2.gif" />
 
 This project is an **interactive Excel dashboard** providing a comprehensive overview of the data science job market in 2023. It leverages pivot tables, advanced Excel calculations, and dynamic slicers to analyze job distribution, salary trends, and monthly hiring patterns.
 
